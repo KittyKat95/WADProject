@@ -5,13 +5,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="wadstrap/css/bootstrap.min.css" />
 		<link rel="stylesheet" href="css/style.css" />
-
+  <meta name="viewpoint" content="width=device-width, initial-scale=1">
 
 	</head>
 	
 	<body>
-<!--Tim -->
-	<script>
+	  
+	  <script>
 		
         var XMLHttpRequestObject = false;
             if(window.XMLHttpRequest){
@@ -35,19 +35,17 @@
                 }
             }
         </script>
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
      <script type="text/javascript">
             $(function(){
                 $("#div2").load("show.php");
             });
          </script>
-        
-  
-<!-- Tim -->
-		
-		
-
-		<?php include "header.php" ?>
+       
+	  
+	  
+  	<?php include "header.php" ?>
 		<?php include "Maincontent.php" ?>
 		<?php include "footer.php" ?>
 		

@@ -1,11 +1,4 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-     <script type="text/javascript">
-            $(function(){
-                $("#div2").load("show.php");
-            });
-         </script>
-
-	<div class="jumbotron">
+<div class="jumbotron">
 		<div class="container1">
 			<h1>Welcome!</h1>
 			<p>Here you can find the Top 100 Movies</p>
@@ -71,15 +64,7 @@
     </div>
 
  
-  <!-- Controls -->
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-    <span class="sr-only"></span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"</span>
-    <span class="sr-only"></span>
-  </a>
+ 
 
 <!-- Carousel -->
 				</div>
@@ -87,32 +72,34 @@
 	</div>	
 	</div>
 
-}
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script type="text/javascript">
+            $(function(){
+                $("#div2").load("show.php");
+            });
+         </script>
+  					<div id="div2"></div>
 
 <!-- /1st Article -->	
 
 		<hr />
 
-	<!-- Form -->
-	<div class="container padding" id="cinema">
-		<form role="form">
-			<div class="form-group">
-				<label for="email">Email:</label>
-				<input type="email" class="form-control" id="email" name="email" placeholder="example@example.com"/>
-			</div>
-			<div class="form-group">
-				<label for="name">Name:</label>
-				<input type="text" class="form-control" id="name" name="name" placeholder="Your name here"/>
-			
-			</div>
-			<div class="form-group">
-				<label for="message">Message:</label>
-				<textarea class="form-control" name="message" id="message" placeholder="Your message here"></textarea>
-			</div>
-			<div class="form-group">
-				<input type="checkbox"/> Send me promotional content
-			</div>
-			<button type="submit" class="btn btn-default">Submit</button>
-		</form>
-	</div>
-		<!-- /Form -->
+
+	
+<!-- Web Poll Code -->
+
+<div id="wpg_5664a591bcc55">Loading <a href="http://www.webpollgenerator.com">web poll</a>...</div>
+
+<script language="JavaScript">(function(){wpgscript_5664a591bcc55=document.createElement('script');wpgscript_5664a591bcc55.type="text/javascript";wpgscript_5664a591bcc55.src="http://www.webpollgenerator.com/GetPoll2.php?p=5664a591bcc55" + "&s=" + 
+escape(window.location);setTimeout("document.getElementById('wpg_5664a591bcc55').appendChild(wpgscript_5664a591bcc55)",1);})();
+</script>
+<noscript>
+	
+	<div>
+		<a href="http://www.webpollgenerator.com/Best-Pixar-Film-5664a591bcc55" title="generator html polls">Generate HTML Polls</a>&nbsp;
+		<br/>
+		-&nbsp;<a href="http://www.webpollgenerator.com" title="html poll creator">HTML Poll Creator</a>
+		</div>
+		</noscript>
+		
+	<!-- End Web Poll Generator JavaScript Code -->

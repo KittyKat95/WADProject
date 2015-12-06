@@ -1,6 +1,4 @@
 
-    
-        
 <?php
 
 // Load the XML source
