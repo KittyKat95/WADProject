@@ -1,3 +1,10 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script type="text/javascript">
+            $(function(){
+                $("#div2").load("show.php");
+            });
+         </script>
+
 	<div class="jumbotron">
 		<div class="container1">
 			<h1>Welcome!</h1>
