@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imdb>
+
+<movies>
+    <title> The ShawShank Redemption    </title>
+    <rank>    1 </rank>
+    <year>    1994  </year>
+    <rating>  9.2  </rating>
+</movies>
+
+<movies>
+    <title> The GodFather    </title>
+    <rank>  2   </rank>
+    <year>  1974    </year>
+    <rating>9.2    </rating>
+</movies>
+
+<movies>
+    <title> The GodFather II    </title>
+    <rank>  3   </rank>
+    <year>   1974   </year>
+    <rating>9.0    </rating>
+</movies>
+
+<movies>
+    <title>The Dark Knight     </title>
+    <rank> 4    </rank>
+    <year>  2008    </year>
+    <rating>8.9    </rating>
+</movies>
+
+<movies>
+    <title>12 Angry Men </title>
+    <rank>   5  </rank>
+    <year>   1957   </year>
+    <rating> 8.9   </rating>
+</movies>
+<movies>
+    <title>  Schlinders list   </title>
+    <rank> 6    </rank>
+    <year>  1993    </year>
+    <rating>   8.9 </rating>
+</movies>
+
+<movies>
+    <title>Pulp Fiction     </title>
+    <rank>7</rank>
+    <year>1994</year>
+    <rating>8.9</rating>
+</movies>
+
+<movies>
+    <title>The Good ,the bad and the ugly    </title>
+    <rank>8</rank>
+    <year>1966</year>
+    <rating>8.9</rating>
+</movies>
+
+<movies>
+    <title> The lord of the Rings:The Return of the King </title>
+    <rank>9</rank>
+    <year>2003</year>
+    <rating>8.9</rating></rating>
+</movies>
+
+<movies>
+    <title>Fight Club</title>
+    <rank>10</rank>
+    <year>1999</year>
+    <rating>8.8</rating>
+</movies>
+<movies>
+    <title>The Lord of the Rings:The fellowship of the ring</title>
+    <rank>11</rank>
+    <year>2001</year>
+    <rating>8.8</rating>
+</movies>
+
+<movies>
+    <title>Star Wars:Episode V- The Empire STrikes Back     </title>
+    <rank>12</rank>
+    <year>1980</year>
+    <rating>8.7</rating>
+</movies>
+
+<movies>
+    <title>Forrest Gump</title>
+    <rank>13</rank>
+    <year>1994</year>
+    <rating>8.7</rating>
+</movies>
+<movies>
+    <title>Inception</title>
+    <rank>14</rank>
+    <year>2010</year>
+    <rating>8.7</rating>
+</movies>
+
+<movies>
+    <title>One flew Over the Cuckoo's Nest</title>
+    <rank>15</rank>
+    <year>1975</year>
+    <rating>8.7</rating>
+</movies>
+
+<movies>
+    <title>The Lord of the Rings:The Two Towers</title>
+    <rank>16</rank>
+    <year>2002</year>
+    <rating>8.7</rating>
+</movies>
+
+<movies>
+    <title>Goodfellas</title>
+    <rank>17</rank>
+    <year>1990</year>
+    <rating>8.7</rating>
+</movies>
+
+<movies>
+    <title>The Matrix</title>
+    <rank>18</rank>
+    <year>1999</year>
+    <rating>8.7</rating>
+</movies>
+
+<movies>
+    <title>Star Wars:Episode IV - A New Hope     </title>
+    <rank>19</rank>
+    <year>1977</year>
+    <rating>8.7</rating>
+</movies>
+<movies>
+    <title> Seven Samurai</title>
+    <rank>20</rank>
+    <year>1954</year>
+    <rating>8.7</rating>
+</movies>
+
+<movies>
+    <title>City of God</title>
+    <rank>21</rank>
+    <year>2002</year>
+    <rating>8.6</rating>
+</movies>
+
+<movies>
+    <title>Se7en</title>
+    <rank>22</rank>
+    <year>1995</year>
+    <rating>8.6</rating>
+</movies>
+
+<movies>
+    <title>The Silence of the Lambs</title>
+    <rank>23</rank>
+    <year>1991</year>
+    <rating>8.6</rating>
+</movies>
+
+<movies>
+    <title>The Usual Suspects</title>
+    <rank>24</rank>
+    <year>1995</year>
+    <rating>8.6</rating>
+</movies>
+
+<movies>
+    <title>Its a Wonderful Life</title>
+    <rank>25</rank>
+    <year>1946</year>
+    <rating>8.6</rating>
+</movies>
+
+<movies>
+    <title>Life is Beautiful</title>
+    <rank>26</rank>
+    <year>1997</year>
+    <rating>8.6</rating>
+</movies>
+
+<movies>
+    <title>Leon:The Professional</title>
+    <rank>27</rank>
+    <year>1994</year>
+    <rating>8.6</rating>
+</movies>
+
+<movies>
+    <title>Once Upon a Time in the West</title>
+    <rank>28</rank>
+    <year>1968</year>
+    <rating> 8.6</rating>
+</movies>
+
+<movies>
+    <title>Interstellar</title>
+    <rank>29</rank>
+    <year>2014</year>
+    <rating>8.5</rating>
+</movies>
+<movies>
+    <title>Saving Private Ryan</title>
+    <rank>30</rank>
+    <year>1998</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Spirited Away</title>
+    <rank>31</rank>
+    <year>2001</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>American History X</title>
+    <rank>32</rank>
+    <year>1998</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Casablanca</title>
+    <rank>33</rank>
+    <year>1942</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>City Lights</title>
+    <rank>34</rank>
+    <year>1931</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Psycho</title>
+    <rank>35</rank>
+    <year>1960</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Raiders of the Lost Ark</title>
+    <rank>36</rank>
+    <year>8.5</year>
+    <rating>1981</rating>
+</movies>
+
+<movies>
+    <title>Rear Windows</title>
+    <rank>37</rank>
+    <year>1954</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>The Intouchables</title>
+    <rank>38</rank>
+    <year>2011</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Modern Times</title>
+    <rank>39</rank>
+    <year>1936</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>The Green Mile</title>
+    <rank>40</rank>
+    <year>1999</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Terminator 2:Judgement Day</title>
+    <rank>41</rank>
+    <year>1991</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>The Pianist</title>
+    <rank>42</rank>
+    <year>2002</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Whiplash</title>
+    <rank>43</rank>
+    <year>2014</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>The Departed</title>
+    <rank>44</rank>
+    <year>2006</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Back to the Future</title>
+    <rank>45</rank>
+    <year>1985</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Memento</title>
+    <rank>46</rank>
+    <year>2000</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Gladiator</title>
+    <rank>47</rank>
+    <year>2000</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Apocalyse Now </title>
+    <rank>47</rank>
+    <year>1979</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Dr.Strangelove or :How I learned to stop Worrying and Love the Bomb</title>
+    <rank>49</rank>
+    <year>1964</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Sunset Blvd.</title>
+    <rank>50</rank>
+    <year>1950</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>The Prestige</title>
+    <rank>51</rank>
+    <year>2006</year>
+    <rating>8.5</rating>
+</movies>
+
+<movies>
+    <title>Alien</title>
+    <rank>52</rank>
+    <year>1979</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>The lion king</title>
+    <rank>53</rank>
+    <year>1994</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>The Great Dictator</title>
+    <rank>54</rank>
+    <year>1940</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>The lives of others</title>
+    <rank>55</rank>
+    <year>2006</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>Cinema Paradiso</title>
+    <rank>56</rank>
+    <year>1988</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>The Shining</title>
+    <rank>57</rank>
+    <year>1980</year>
+    <rating>8.4</rating>
+</movies><movies>
+    <title>Paths of Glory</title>
+    <rank>58</rank>
+    <year>1957</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>Django Unchained</title>
+    <rank>59</rank>
+    <year>2012</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>The Dark Knight Rises</title>
+    <rank>60</rank>
+    <year>2012</year>
+    <rating>8.4</rating>
+</movies><movies>
+    <title>WALL-E</title>
+    <rank>61</rank>
+    <year>2008</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>American Beauty</title>
+    <rank>62</rank>
+    <year>1999</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>Grave of fireflies</title>
+    <rank>63</rank>
+    <year>1988</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>Aliens</title>
+    <rank>64</rank>
+    <year>1986</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>Citizen Kane</title>
+    <rank>65</rank>
+    <year>1941</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>North by NorthWest</title>
+    <rank>66</rank>
+    <year>1959</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>Oldboy</title>
+    <rank>67</rank>
+    <year>2003</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>Princess Mononoke</title>
+    <rank>68</rank>
+    <year>1997</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>Vertigo</title>
+    <rank>69</rank>
+    <year>1958</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>Das boot</title>
+    <rank>70</rank>
+    <year>1981</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>Star Wars:VI-Return of the Jedi</title>
+    <rank>71</rank>
+    <year>1983</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>Once Upon a time in America</title>
+    <rank>72</rank>
+    <year>1984</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>M</title>
+    <rank>73</rank>
+    <year>1931</year>
+    <rating>8.4</rating>
+</movies>
+
+<movies>
+    <title>Amelie</title>
+    <rank>74</rank>
+    <year>2001</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Witness for the Prosecution</title>
+    <rank>75</rank>
+    <year>1957</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Resrvoir Dogs</title>
+    <rank>76</rank>
+    <year>1992</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>BraveHeart</title>
+    <rank>77</rank>
+    <year>1995</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Toy Story 3</title>
+    <rank>78</rank>
+    <year>2010</year>
+    <rating>8.3 </rating>
+</movies>
+
+<movies>
+    <title>79 </title>
+    <rank>A clockWork Orange</rank>
+    <year>1971</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Requiem for a Dream</title>
+    <rank>80</rank>
+    <year>2000</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Double imdemnity</title>
+    <rank>81</rank>
+    <year>1944</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Taxi Driver</title>
+    <rank>82</rank>
+    <year>1976</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>To Kill a Mocking Bird</title>
+    <rank>83</rank>
+    <year>1962</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Laurence of Arabia</title>
+    <rank>84</rank>
+    <year>1962</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Eternal Sunshine of the spotless mind</title>
+    <rank>85</rank>
+    <year>2004</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Inside Out</title>
+    <rank>86</rank>
+    <year>2015</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Full Metal Jacket</title>
+    <rank>86</rank>
+    <year>2015</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Amadeus</title>
+    <rank>87</rank>
+    <year>1984</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>The Stinf</title>
+    <rank>88</rank>
+    <year>8.3</year>
+    <rating></rating>
+</movies>
+
+<movies>
+    <title>Singin' in the rain</title>
+    <rank>89</rank>
+    <year>1952</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Bicycle Thieves</title>
+    <rank>90</rank>
+    <year>1952</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>2001:A space idyssey</title>
+    <rank>91</rank>
+    <year>1948</year>
+    <rating>1968</rating>
+</movies>
+
+<movies>
+    <title>Snatch</title>
+    <rank>92</rank>
+    <year>2000</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Monty Pyton and the holy grail</title>
+    <rank>93</rank>
+    <year>1975</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>The Kid</title>
+    <rank>94</rank>
+    <year>1921</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Toy Stories</title>
+    <rank>95</rank>
+    <year>1995</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>For a Few Dollars More</title>
+    <rank>96</rank>
+    <year>1965</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>L.A. Confidential</title>
+    <rank>97</rank>
+    <year>1965</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Rashamon</title>
+    <rank>98</rank>
+    <year>1950</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>Inglorious Basterds</title>
+    <rank>99</rank>
+    <year>2009</year>
+    <rating>8.3</rating>
+</movies>
+
+<movies>
+    <title>The Apartment</title>
+    <rank>100</rank>
+    <year>1960</year>
+    <rating>8.3</rating>
+</movies>
+
+</imdb>

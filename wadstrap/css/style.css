@@ -1,0 +1,38 @@
+.jumbotron
+{
+background-attachment:fixed;
+min-height:500px;
+margin-bottom:0px;
+}
+.container1
+{
+background-image:url(movie.jpg);
+}
+.alt1
+{
+background:#eee;
+min-height:400px;
+}
+
+.alt2
+{
+background:#333;
+min-height:150px;
+color:#fff;
+text-align:center;
+}
+
+.padding
+{
+padding-top:20px;
+padding-bottom:20px;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
