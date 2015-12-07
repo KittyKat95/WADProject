@@ -5,13 +5,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="wadstrap/css/bootstrap.min.css" />
 		<link rel="stylesheet" href="css/style.css" />
-  <meta name="viewpoint" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
 	</head>
-	
 	<body>
-	  
-	  <script>
+	    
+	    <script>
 		
         var XMLHttpRequestObject = false;
             if(window.XMLHttpRequest){
@@ -36,19 +35,17 @@
             }
         </script>
         
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-     <script type="text/javascript">
-            $(function(){
-                $("#div2").load("show.php");
-            });
-         </script>
-       
-	  
-	  
-  	<?php include "header.php" ?>
-		<?php include "Maincontent.php" ?>
-		<?php include "footer.php" ?>
-		
+      
+
+
+           
+	       <?php include "header.php" ?>
+	        <?php include "Maincontent.php" ?>
+		    <?php include "footer.php" ?>
+		    
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 		
 	
@@ -56,7 +53,7 @@
 	<script src="js/bootstrap.js"></script><script>
 	$(function() {
   $('a[href*=#]:not([href=#])').click(function() {
-    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+    if (location.pathname.replace(/^\//,'') == this.pathname.rbodeplace(/^\//,'') && location.hostname == this.hostname) {
       var target = $(this.hash);
       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
       if (target.length) {

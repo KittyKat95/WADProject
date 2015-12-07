@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <imdb>
 
 <movies>
-    <title> The ShawShank Redemption    </title>
+    <title> The ShawShank Redemption</title>
     <rank>    1 </rank>
     <year>    1994  </year>
     <rating>  9.2  </rating>
 </movies>
 
 <movies>
-    <title> The GodFather    </title>
+    <title> The GodFather</title>
     <rank>  2   </rank>
     <year>  1974    </year>
     <rating>9.2    </rating>
 </movies>
 
 <movies>
-    <title> The GodFather II    </title>
+    <title> The GodFather II</title>
     <rank>  3   </rank>
     <year>   1974   </year>
     <rating>9.0    </rating>
 </movies>
 
 <movies>
-    <title>The Dark Knight     </title>
+    <title>The Dark Knight</title>
     <rank> 4    </rank>
     <year>  2008    </year>
     <rating>8.9    </rating>
@@ -50,14 +51,14 @@
 </movies>
 
 <movies>
-    <title>The Good ,the bad and the ugly    </title>
+    <title>The Good,the Bad and the Ugly    </title>
     <rank>8</rank>
     <year>1966</year>
     <rating>8.9</rating>
 </movies>
 
 <movies>
-    <title> The lord of the Rings:The Return of the King </title>
+    <title> The Lord of the Rings:The Return of the King </title>
     <rank>9</rank>
     <year>2003</year>
     <rating>8.9</rating>
@@ -70,14 +71,14 @@
     <rating>8.8</rating>
 </movies>
 <movies>
-    <title>The Lord of the Rings:The fellowship of the ring</title>
+    <title>The Lord of the Rings:The Fellowship of the Ring</title>
     <rank>11</rank>
     <year>2001</year>
     <rating>8.8</rating>
 </movies>
 
 <movies>
-    <title>Star Wars:Episode V- The Empire STrikes Back     </title>
+    <title>Star Wars:Episode V, The Empire Strikes Back     </title>
     <rank>12</rank>
     <year>1980</year>
     <rating>8.7</rating>
@@ -97,7 +98,7 @@
 </movies>
 
 <movies>
-    <title>One flew Over the Cuckoo's Nest</title>
+    <title>One Flew Over the Cuckoo's Nest</title>
     <rank>15</rank>
     <year>1975</year>
     <rating>8.7</rating>
@@ -244,8 +245,8 @@
 <movies>
     <title>Raiders of the Lost Ark</title>
     <rank>36</rank>
-    <year>8.5</year>
-    <rating>1981</rating>
+    <year>1981</year>
+    <rating>8.5</rating>
 </movies>
 
 <movies>
@@ -333,7 +334,7 @@
 </movies>
 
 <movies>
-    <title>Dr.Strangelove or :How I learned to stop Worrying and Love the Bomb</title>
+    <title>Dr.Strangelove or How I learned to stop Worrying and Love the Bomb</title>
     <rank>49</rank>
     <year>1964</year>
     <rating>8.5</rating>
@@ -361,7 +362,7 @@
 </movies>
 
 <movies>
-    <title>The lion king</title>
+    <title>The Lion King</title>
     <rank>53</rank>
     <year>1994</year>
     <rating>8.4</rating>
@@ -539,8 +540,8 @@
 </movies>
 
 <movies>
-    <title>79 </title>
-    <rank>A clockWork Orange</rank>
+    <title>A ClockWork Orange</title>
+    <rank>79</rank>
     <year>1971</year>
     <rating>8.3</rating>
 </movies>

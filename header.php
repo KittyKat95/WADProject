@@ -9,9 +9,9 @@
 			</button>
 			<div class="collapse navbar-collapse navHeaderCollapse">
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="#top">Top 100 Movies</a></li>
 					<li><a href="#marathon">Top Marathon Movies</a></li>
-					<li><a href="#cinema">Cinema Listings</a></li>
+					<li><a href="#top">Top 100 Movies</a></li>
+					<li><a href="#poll">Poll</a></li>
 				</ul>
 			</div>
 		</div>
