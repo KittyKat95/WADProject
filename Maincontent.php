@@ -1,3 +1,5 @@
+
+
 <div class="jumbotron">
 		<div class="container1">
 			<h1>Welcome!</h1>
@@ -6,7 +8,7 @@
 			<p>and Cinema Listings for new movies</p>
 		</div>
 	</div>
-	
+
 <!-- Row with 3 columns-->
 	<div class="alt1 padding" id="marathon">
 		<h1 class="text-center">Marathon Movies</h1>
