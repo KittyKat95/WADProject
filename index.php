@@ -59,7 +59,7 @@
       if (target.length) {
         $('html,body').animate({
           scrollTop: target.offset().top
-        }, 10000);
+        }, 10);
         return false;
       }
     }

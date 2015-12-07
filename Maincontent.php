@@ -8,9 +8,9 @@
 	</div>
 	
 <!-- Row with 3 columns-->
-	<div class="alt1 padding" id="top">
+	<div class="alt1 padding" id="marathon">
 		<h1 class="text-center">Marathon Movies</h1>
-		 <a href="#marathon">Top Marathon Movies</a>
+
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
@@ -39,15 +39,13 @@
 	
 <!-- 1st Article -->
 
-	<div class="container" id="movies" style="width: 1230px;">
+	<div class="container" id="top" style="width: 1230px;">
 		<div class="row padding" id="one" style="">
 			<div class="col-md-6" style="width: 1230px;">
 				<h2 class="text-center">Top 100 Movies</h2>
 	
 	<div id="links"> <p></p></div>	
-	
-				
-				
+
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -55,7 +53,6 @@
     <li data-target="#carousel-example-generic" data-slide-to="1"></li>
     <li data-target="#carousel-example-generic" data-slide-to="2"></li>
   </ol>
- 
  
  
   <!-- Wrapper for slides -->
@@ -82,16 +79,11 @@
 	</div>	
 	</div>
 
-	
-
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
      <script type="text/javascript">
             $(function(){
                 $("#div2").load("imdb.php");
             });
-        
-        
-
 		</script>
 
 	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
@@ -133,9 +125,9 @@
 <!-- /1st Article -->	
 
 		<hr />
-<!-- Poll -->		
+<!-- Poll -->	
 <form method="post" action="http://poll.pollcode.com/65747741">
-	<div style="background-color:#000000;padding:2px;width:500px;font-family:Arial;font-size:small;color:#FFFFFF;">
+	<div id="poll" style="background-color:#000000;padding:2px;width:500px;font-family:Arial;font-size:small;color:#FFFFFF;">
 		<div style="padding:2px 0px 4px 2px;">
 			<strong>Best Pixar film?</strong>
 		</div>
